@@ -57,5 +57,9 @@ The processor was verified using simulation with a test program designed to exer
 - Branch and jump behavior
 
 Correct pipeline behavior was verified under these conditions.
+
+## Notes on Provided Components
+
+The instruction memory contents and portions of the testbench were provided as part of the course framework and used for simulation and verification.
  
     
